@@ -1,0 +1,4 @@
+# v0.0.1
+
+- Initialize with the broker, consumer and producer
+- Implemented broadcast but without effective message id
